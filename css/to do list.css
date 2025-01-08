@@ -1,0 +1,57 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: rgb(6, 12, 52);
+}
+
+.to-do-box {
+    width: 32%;
+    margin: auto;
+    background-color: rgb(187, 138, 86);
+    padding: 12px;
+    /* height: 120px; */
+    text-align: center;
+    border-radius: 12px;
+}
+h2{
+    padding-bottom: 12PX;
+}
+.container{
+    margin-top: 8%;
+   
+}
+
+li {
+    list-style: none;
+    margin-top: 6%;
+    font-weight: 100;
+    border: 2px solid rgb(6, 12, 52);
+    padding: 4%;
+    border-radius: 12px;
+}
+input{
+    width: 50%;
+}
+button,
+input {
+    color: black;
+    border: 2px solid rgb(6, 12, 52);
+    padding: 9px;
+    background-color: antiquewhite;
+    border-radius: 6px;
+}
+button{
+    width: 20%;
+}
+i {
+    float: right;
+    color: rgb(6, 12, 52);
+
+    /* font-size: x-large; */
+}
+#task{
+    width: 75%;
+    text-align: start;
+    
+    margin: auto;
+}
